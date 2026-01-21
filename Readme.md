@@ -1,7 +1,12 @@
 # Vehicle Counting Solution
 
 ## Overview
-Classical computer vision solution for counting vehicles in traffic videos captured from a static camera where vehicles move away from the camera.
+Solution for counting vehicles in traffic videos captured from a static camera where vehicles move away from the camera. Counting using classical computer visoin techniques and avoiding deep learning.
+
+| Example 1 | Example 2 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/73efdd71-dced-415a-a589-e3d75dbce2b3" width="475" style="margin-right: 50px;" /> | <img src="https://github.com/user-attachments/assets/89d74b14-3271-4a64-8e21-ce3d4e14df8a" width="475" style="margin-left: 50px;" /> |
+
 
 ## Requirements
 - Python 3.7+
