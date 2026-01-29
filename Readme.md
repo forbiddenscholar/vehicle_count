@@ -5,7 +5,7 @@ Solution for counting vehicles in traffic videos captured from a static camera w
 
 | Example 1 | Example 2 |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/73efdd71-dced-415a-a589-e3d75dbce2b3" width="425" style="margin-right: 50px;" /> | <img src="https://github.com/user-attachments/assets/89d74b14-3271-4a64-8e21-ce3d4e14df8a" width="425" style="margin-left: 50px;" /> |
+| <img src="https://github.com/user-attachments/assets/73efdd71-dced-415a-a589-e3d75dbce2b3" width="400" style="margin-right: 10px;" /> | <img src="https://github.com/user-attachments/assets/89d74b14-3271-4a64-8e21-ce3d4e14df8a" width="400" style="margin-left: 10px;" /> |
 
 
 ## Requirements
