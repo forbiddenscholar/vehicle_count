@@ -1,5 +1,9 @@
 # Vehicle Counting Solution
 
+<a target="_blank" href="https://medium.com/@mohitdeharkar/vehicle-count-80b15739be12">
+  <img src="https://medium-widget-api.vercel.app/medium/@mohitdeharkar/vehicle-count-80b15739be12?v=1" alt="Read Vehicle Count on Medium">
+</a>
+
 ## Overview
 Solution for counting vehicles in traffic videos captured from a static camera where vehicles move away from the camera. Counting using classical computer visoin techniques and avoiding deep learning.
 
